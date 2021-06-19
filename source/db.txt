@@ -1,0 +1,23 @@
+[
+  {
+    "accno": "1097 0082 6548 3040",
+    "balance": 25.33,
+    "name": "Pritam Das",
+    "phnno": "8640 420 6969",
+    "pin": "7865"
+  },
+  {
+    "accno": "1097 0082 7900 4202",
+    "balance": 29.06,
+    "name": "James Bond",
+    "phnno": "8008 187 7766",
+    "pin": "0007"
+  },
+  {
+    "accno": "1097 0082 6859 4804",
+    "balance": 11.3,
+    "name": "Rahul Chowdhuri",
+    "phnno": "9899102632",
+    "pin": "1214"
+  }
+]
